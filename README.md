@@ -15,5 +15,8 @@
 - [ ] Custom PCB -> Have to attach Modules
 - [ ] Custom PCB -> Single board unit
 
+### Parts Lis
 
+### Functionality
 
+### Required Libraries
